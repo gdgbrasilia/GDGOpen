@@ -6,7 +6,7 @@ O **GDG Open** é um projeto do **GDG de Brasília** que incentivar a participa�
 
 Abrir pull requests em projetos open source aqui do GitHub. Não se preocupe em esperar sua contribuição ser aprovada, sabemos que essas coisas levam algum tempo, o interessante é contribuir com projetos.
 
-Como contribuir com projetos: https://medium.com/@leportella/como-contribuir-para-um-projeto-open-source-pela-primeira-vez-sem-escrever-c%C3%B3digo-21e55a896fb0
+* [Como contribuir com projetos](https://medium.com/@leportella/como-contribuir-para-um-projeto-open-source-pela-primeira-vez-sem-escrever-c%C3%B3digo-21e55a896fb0)
 
 ## Regras
 
@@ -16,8 +16,8 @@ Para participar, lembre-se de realizar as contribuições nos períodos divulgad
 
 Como primeiro passo, é importante ter já criado a sua conta no GitHub. Caso você não tenha, você pode criar clicando aqui. É importante também conhecer um pouco sobre git, como funciona a contribuição em projetos. Caso você não tenha conhecimento, seguem alguns links que possam te ajudar.
 
-[Curso de Git da codeAcademy](https://www.codecademy.com/pt/learn/learn-git)
-[Curso de Git da CodeSchool](https://www.codeschool.com/courses/try-git)
+* [Curso de Git da codeAcademy](https://www.codecademy.com/pt/learn/learn-git)
+* [Curso de Git da CodeSchool](https://www.codeschool.com/courses/try-git)
 
 ## Premiação
 
